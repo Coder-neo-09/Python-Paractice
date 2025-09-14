@@ -4,27 +4,27 @@
 
 ## 1. **Basics of Python**
 
-1. Introduction to Python (installation, IDEs, running scripts)
-2.  Python Syntax, Indentation, Comments
-3.  Variables & Data Types (int, float, str, bool, None)
-4.  Type Casting & `type()`
-5.  Input/Output (`print()`, `input()`)
+1. [Introduction to Python (installation, IDEs, running scripts)](1.Basics-of-Python/1.Introduction-to-Python.md)
+2. [Python Syntax, Indentation, Comments](1.Basics-of-Python/2.Python-Syntax.md)
+3.  [Variables & Data Types (int, float, str, bool, None)](1.Basics-of-Python/3.Variables-Data-types.md)
+4.  [Type Casting & `type()`](1.Basics-of-Python/4.Type-Casting.md)
+5.  [Input/Output (`print()`, `input()`)](1.Basics-of-Python/5.Input-Output.md)
 
 ---
 
 ## 2. **Operators & Expressions**
 
-1. Arithmetic, Comparison, Logical operators
-2. Assignment & Augmented Assignment (`+=, -=, *=`)
-3. Identity & Membership (`is`, `in`)
+1. [Arithmetic, Comparison, Logical operators](2.Operations-&-Expressions/1.Arithmetic-Comparison-Logical.md)
+2. [Assignment & Augmented Assignment (`+=, -=, *=`)](2.Operations-&-Expressions/2.Assignment-&-Augmented-Assignment.md)
+3. [Identity & Membership (`is`, `in`)](2.Operations-&-Expressions/3.Identity-&-Membership.md)
 
 ---
 
 ## 3. **Control Flow**
 
-1. Conditional Statements (`if`, `elif`, `else`)
-2. Loops (`for`, `while`)
-3. Loop Control (`break`, `continue`, `pass`)
+1. [Conditional Statements (`if`, `elif`, `else`)](3.Control-Flow/1.Conditional-Statements.md)
+2. [Loops (`for`, `while`)](3.Control-Flow/2.Loops.md)
+3. [Loop Control (`break`, `continue`, `pass`)](3.Control-Flow/3.Loop-Control.md)
 
 ---
 
