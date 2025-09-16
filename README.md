@@ -30,62 +30,62 @@
 
 ## 4. **Data Structures**
 
-1. Strings (slicing, methods, f-strings)
-2. Lists (CRUD, slicing, methods)
-3. Tuples (immutable sequences)
-4. Sets (unique elements, operations)
-5. Dictionaries (key-value pairs)
+1. [Strings (slicing, methods, f-strings)](4.Data-strutures/1.Strings.md)
+2. [Lists (CRUD, slicing, methods)](4.Data-strutures/2.Lists.md)
+3. [Tuples (immutable sequences)](4.Data-strutures/3.Tuples.md)
+4. [Sets (unique elements, operations)](4.Data-strutures/4.Sets.md)
+5. [Dictionaries (key-value pairs)](4.Data-strutures/5.Dictionaries.md)
 
 ---
 
 ## 5. **Functions & Modules**
 
-1. Defining Functions (`def`)
-2. Arguments (positional, keyword, default, `*args`, `**kwargs`)
-3. Return values
-4. Lambda Functions
-5. Scope (Local, Global, Nonlocal)
-6. Importing Modules (`import`, `from ... import`)
-7. Built-in Modules (`math`, `random`, `datetime`)
+1. [Defining Functions (`def`)](5.Functions-&-Modules/1.Defining-functions.md)
+2. [Arguments (positional, keyword, default, `*args`, `**kwargs`)](5.Functions-&-Modules/2.Arguments.md)
+3. [Return values](5.Functions-&-Modules/3.Return-Values.md)
+4. [Lambda Functions](5.Functions-&-Modules/4.Lambda-functions.md)
+5. [Scope (Local, Global, Nonlocal)](5.Functions-&-Modules/5.Scope.md)
+6. [Importing Modules (`import`, `from ... import`)](5.Functions-&-Modules/5.Scope.md)
+7. [Built-in Modules (`math`, `random`, `datetime`)](5.Functions-&-Modules/7.Built-in-Modules.md)
 
 ---
 
 ## 6. **File Handling**
 
-1. Opening files (`open()`)
-2. Reading & Writing (`read()`, `write()`, `with`)
-3. File modes (`r`, `w`, `a`, `rb`, `wb`)
-4. Exception Handling with files
+1. [Opening files (`open()`)](6.File-Handling/1.Opening-files.md)
+2. [Reading & Writing (`read()`, `write()`, `with`)](6.File-Handling/2.Reading-&-Writing.md)
+3. [File modes (`r`, `w`, `a`, `rb`, `wb`)](6.File-Handling/3.File-Modes.md)
+4. [Exception Handling with files](6.File-Handling/4.Exception-Handling-with-files.md)
 
 ---
 
 ## 7. **Error & Exception Handling**
 
-1. Types of Errors (SyntaxError, ValueError, etc.)
-2. Try/Except blocks
-3. Finally & Else in exceptions
-4. Raising exceptions (`raise`)
+1. [Types of Errors (SyntaxError, ValueError, etc.)]
+2. [Try/Except blocks]
+3. [Finally & Else in exceptions]
+4. [Raising exceptions (`raise`)]
 
 ---
 
 ## 8. **Object-Oriented Programming (OOP)**
 
-1. Classes & Objects
-2. Attributes & Methods
-3. `__init__` constructor
-4. Inheritance
-5. Polymorphism
-6. Encapsulation
-7. Special (dunder) methods (`__str__`, `__len__`, etc.)
+1. [Classes & Objects]
+2. [Attributes & Methods]
+3. [`__init__` constructor]
+4. [Inheritance]
+5. [Polymorphism]
+6. [Encapsulation]
+7. [Special (dunder) methods (`__str__`, `__len__`, etc.)]
 
 ---
 
 ## 9. **Advanced Python**
 
-1. Iterators & Generators (`yield`)
-2. Decorators
-3. Context Managers (`with`)
-4. Regular Expressions (`re` module)
+1. [Iterators & Generators (`yield`)]
+2. [Decorators]
+3. [Context Managers (`with`)]
+4. [Regular Expressions (`re` module)]
 
 ---
 
